@@ -1,0 +1,2 @@
+# SurakartaAI.py
+python version
