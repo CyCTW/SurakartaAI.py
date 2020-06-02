@@ -1,2 +1,2 @@
-# SurakartaAI.py
-python version
+# Initial page
+
